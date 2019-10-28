@@ -1,2 +1,2 @@
 # Analog_control
- Simple analog control with Arduino and Python GUI
+ Arduino analog control with Python GUI
